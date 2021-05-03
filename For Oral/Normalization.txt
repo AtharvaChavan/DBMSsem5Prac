@@ -1,0 +1,23 @@
+Normalization is the process of MINIMIZING REDUNDANCY from a relation or set of relations.
+
+Redundancy in relation may cause insertion, deletion and updation anomalies. So, it helps to minimize the redundancy in relations.
+Normal forms are used to eliminate or reduce redundancy in database tables.
+
+
+GENERALIZATION
+Generalization is like a bottom-up approach in which two or more entities of lower level combine to form a higher level entity 
+if they have some attributes in common.
+
+SPECIALIZATION is reverse of generalization
+Top-to-bottom
+
+
+DATA ABSTRACTION
+Hiding irrelevant details from user is called data abstraction.
+
+
+DEADLOCK 
+In a database, a deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for one another to give up locks
+Prevention: apply both row-level locking mechanism and READ COMMITTED isolation level
+Wait-Die Scheme – 
+Wound Wait Scheme – 

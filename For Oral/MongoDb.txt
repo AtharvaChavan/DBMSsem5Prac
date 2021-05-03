@@ -1,0 +1,14 @@
+MongoDB
+MongoDB is a NoSQL database. It is open source. 
+It is a document oriented database and it uses BSON which is binary version of JSON. BSON is a document storage format. 
+MongoDB stores data in form of DOCUMENTS and do not use SQL to query databases. 
+It supports DISTRIBUTED SERVERS and provides a RICH DATA MODEL.
+
+https://www.tutorialspoint.com/difference-between-rdbms-and-mongodb
+
+RDBMS: RELATIONAL DATABASE MANAGEMENT SYSTEM
+It stores data in form of entity as tables. 
+It provides multiple layers on information security. 
+Each table may or may not have a primary key which identifies a record uniquely in a table and 
+a foreign key which indentifies the relationship between two tables. 
+RDBMS uses SQL language to query databases

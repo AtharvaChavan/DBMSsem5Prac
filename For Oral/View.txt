@@ -1,0 +1,3 @@
+Views
+You may execute a DELETE, INSERT, or UPDATE statement on a view.
+View is a virtual entity (table) created by a query by joining one or more tables.
